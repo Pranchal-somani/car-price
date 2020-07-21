@@ -2,7 +2,7 @@ absl-py==0.9.0
 alabaster==0.7.12
 altair==4.1.0
 anaconda-client==1.2.2
-anaconda-navigator==1.9.7
+anaconda-navigator==none
 anaconda-project==0.8.2
 argon2-cffi==20.1.0
 asgiref==3.2.3
